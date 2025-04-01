@@ -15,6 +15,3 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-# Demo:
-"# Auction-Website" 
-"# Auction-Website" 
