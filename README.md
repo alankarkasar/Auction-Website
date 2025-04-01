@@ -16,6 +16,5 @@ python manage.py runserver
 ```
 
 # Demo:
-[![VIEW DEMO](https://img.youtube.com/vi/MrRpPPqpEyw/hqdefault.jpg)](https://www.youtube.com/watch?v=MrRpPPqpEyw)
 "# Auction-Website" 
 "# Auction-Website" 
